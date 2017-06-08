@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=tams_data
+%uri=git+ssh://git@metis.its.uci.edu/calvad/tams_data.git
+
